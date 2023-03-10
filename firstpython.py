@@ -1,1 +1,2 @@
-print("Hello")
+# Display the output
+print("Hello Python file")
